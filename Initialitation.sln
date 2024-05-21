@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Initialitation", "Initialit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "composisi", "composisi\composisi.vcxproj", "{11F89098-1272-40C7-9968-913F4CACD5B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agregasi", "agregasi\agregasi.vcxproj", "{5B2922EA-3119-439B-A704-EF48A880A05F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{11F89098-1272-40C7-9968-913F4CACD5B4}.Release|x64.Build.0 = Release|x64
 		{11F89098-1272-40C7-9968-913F4CACD5B4}.Release|x86.ActiveCfg = Release|Win32
 		{11F89098-1272-40C7-9968-913F4CACD5B4}.Release|x86.Build.0 = Release|Win32
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Debug|x64.ActiveCfg = Debug|x64
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Debug|x64.Build.0 = Debug|x64
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Debug|x86.Build.0 = Debug|Win32
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Release|x64.ActiveCfg = Release|x64
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Release|x64.Build.0 = Release|x64
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Release|x86.ActiveCfg = Release|Win32
+		{5B2922EA-3119-439B-A704-EF48A880A05F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
