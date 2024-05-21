@@ -23,5 +23,8 @@
     <ClInclude Include="JANTUNG.H">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MANUSIA.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
